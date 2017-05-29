@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Spide
 
 This is a temporary script file.
 """
@@ -10,10 +10,7 @@ y=9
 while x>0 and y>0:
     x=x-1
     y=y-1
-    
-   
+
+
 print(x)
 print(y)
-
-
-
